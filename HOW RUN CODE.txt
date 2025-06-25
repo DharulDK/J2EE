@@ -1,0 +1,5 @@
+How compile?
+javac -cp .;mysql-connector-j-9.0.0.jar JdbcHighestSalDemoSQL.java
+______________________________________________________________
+How Run?
+java -cp .;mysql-connector-j-9.0.0.jar JdbcHighestSalDemoSQL
