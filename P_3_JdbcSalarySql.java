@@ -1,5 +1,5 @@
 import java.sql.*;
-public class JdbcSelect1DemoSQL {
+public class P_3_JdbcSalarySql {
     public static void main(String[] args) {
         Connection conn = null;
         Statement stmt = null;
