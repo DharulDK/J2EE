@@ -1,5 +1,5 @@
 import java.sql.*;
-public class JdbcHighestSalDemoSQL {
+public class P_8_JdbcHighestSalDemoSQL {
     public static void main(String[] args) {
         Connection conn = null;
         Statement stmt = null;
