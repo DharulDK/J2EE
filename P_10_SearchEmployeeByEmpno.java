@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.Scanner;
 
-public class SearchEmployeeByEmpno {
+public class P_10_SearchEmployeeByEmpno {
     public static void main(String[] args) {
         Connection conn = null;
         PreparedStatement pstmt = null;
