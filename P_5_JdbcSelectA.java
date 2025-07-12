@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class JdbcSelect3DemoSQL {
+public class P_5_JdbcSelectA {
     public static void main(String[] args) {
         Connection conn = null;
         Statement stmt = null;
