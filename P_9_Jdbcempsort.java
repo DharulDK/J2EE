@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class Jdbcempsort {
+public class P_9_Jdbcempsort {
     public static void main(String[] args) {
         Connection conn = null;
         Statement stmt = null;
