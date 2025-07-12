@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class JdbCountDemoSQL {
+public class P_7_JdbCountDemoSQL {
     public static void main(String[] args) {
         Connection conn = null;
         Statement stmt = null;
