@@ -25,3 +25,21 @@ public class P_3_FORM extends HttpServlet {
         response.getWriter().println("</body></html>");
     }
 }
+
+
+                                            index.html-
+    
+    <!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome Form</title>
+</head>
+<body>
+    <h2>Enter your Username</h2>
+    <form action="WelcomeUser" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required />
+        <input type="submit" value="Submit" />
+    </form>
+</body>
+</html>
